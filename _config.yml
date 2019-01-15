@@ -7,8 +7,7 @@ github: https://github.com/Brook-Lan
 baseurl: ""
 description:  
 meta_description: 蓝海强;个人博客;
-# motto: It's our wits that make us men.
-# banner: 学而不思则罔，思而不学则殆。
+motto: 上士闻道，勤而行之。
 
 permalink: /:categories/:year/:month/:day/:title/
 paginate: 10
