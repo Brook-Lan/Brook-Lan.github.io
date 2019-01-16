@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 相关博客
+title: 文章、博客推荐
 permalink: /reference/
 ---
 
@@ -8,24 +8,10 @@ permalink: /reference/
 {:toc}
 
 
-走向架构师之路
-=====================
-[走向架构师之路](http://blog.csdn.net/cutesource/article/details/4901506)
 
-HTTP协议详解
+自然语言处理
 =====================
-[HTTP协议详解](http://www.jmarshall.com/easy/http/)
+[NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493520&idx=1&sn=2b04c009ef75291ef3d19e8fe673aa36&pass_ticket=o4r0a01MZLlOnoNUvR3R0S9SaMFglVqjhuU2W1nOylUkoNKnweXuLr1Gn2gmA2AP)
 
-Axis 2.0的入门
-=====================
-[曹胜欢][http://blog.csdn.net/csh624366188/article/details/8362696](http://blog.csdn.net/csh624366188/article/details/8362696)
+[NLP 的巨人肩膀（下）：从 CoVe 到 BERT](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493731&idx=1&sn=51206e4ca3983548436d889590ab5347&pass_ticket=o4r0a01MZLlOnoNUvR3R0S9SaMFglVqjhuU2W1nOylUkoNKnweXuLr1Gn2gmA2AP)
 
-[一线码农]
-=====================
-算法入门和分布式缓存入门
-[http://www.cnblogs.com/huangxincheng/archive/2011/11/14/2249046.html](http://www.cnblogs.com/huangxincheng/archive/2011/11/14/2249046.html)
-
-[雷霄骅]
-=====================
-视音频编解码技术学习方法
-[http://blog.csdn.net/leixiaohua1020/article/details/18893769](http://blog.csdn.net/leixiaohua1020/article/details/18893769)
