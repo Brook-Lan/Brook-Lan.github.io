@@ -6,7 +6,7 @@ author: Humch
 baseurl: ""
 
 meta_description: Humch;个人博客;IT技术;读书
-motto: ego cogito ergo sum.
+motto: I think, therefore I am
 
 permalink: /:categories/:year/:month/:day/:title/
 paginate: 10
