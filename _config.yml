@@ -1,20 +1,17 @@
 # Site settings
-name: ThinkBlog 
-email: 20097012@cqu.edu.cn
-author: 蓝海强
-url: http://www.lhshow.cn:8000
-github: https://github.com/Brook-Lan
+name: ThinkBlog
+description:  "Just Thinking ..."
+
+author: Humch
 baseurl: ""
-description:  
-meta_description: 蓝海强;个人博客;
-motto: 上士闻道，勤而行之。
+
+meta_description: Humch;个人博客;IT技术;读书
+motto: ego cogito ergo sum.
 
 permalink: /:categories/:year/:month/:day/:title/
 paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: humch
-
 # Build settings
-# markdown: kramdown
+markdown: kramdown
