@@ -3,6 +3,7 @@ layout: post
 title: 关于作者
 date: 2019-01-16
 permalink: /about/
+tags: 其他
 ---
 
 * content
