@@ -25,8 +25,8 @@ layout: default
 
               <div class="row meta">
                 <span class="glyphicon glyphicon-time col-md-3"> {{ page.date | date: "%Y-%m-%d" }}</span>
-                <span class="glyphicon glyphicon-pencil col-md-3 col-md-offset-1"> {{ site.author }} </span> 
-                <span  class="glyphicon glyphicon-signal col-md-3 col-md-offset-1"> {{ content | strip_html | strip_newlines | split: "" | size }}</span>
+                <span class="glyphicon glyphicon-pencil col-md-3"> {{ site.author }} </span> 
+                <span  class="glyphicon glyphicon-signal col-md-3"> {{ content | strip_html | strip_newlines | split: "" | size }}</span>
               </div>
               <br />
               <div class="tag" style="margin-top:20px;margin-bottom: 50px;">

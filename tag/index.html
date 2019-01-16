@@ -7,13 +7,16 @@ header: Posts By Tag
 <div class="container docs-container">
   <div class="row">
     <div class="col-md-3">
-				<h1>&nbsp;&nbsp; 标签云</h1>
+				<h1 class="text-center">标签云</h1>
 				<div class="post-contents" style="margin-top: 70px;">
+						<h4>
 						{% for tag in site.tags %}
 						{% assign t = tag | first %}
 						{% assign posts = tag | last %}
-						<a class="btn btn-default btn-sm" style="margin-top: 5px;" href="{{ site.JB.tags_path }}#{{ t }}-ref">{{t | downcase | replace:" ","-" }} ( {{ posts | size }} )</a>
+						<!-- <a class="btn btn-default btn-sm" style="margin-top: 5px;" href="{{ site.JB.tags_path }}#{{ t }}-ref">{{t | downcase | replace:" ","-" }} ( {{ posts | size }} )</a> -->
+						<a class="label label-default" style="display: inline-block;" href="{{ site.JB.tags_path }}#{{ t }}-ref">{{t | downcase | replace:" ","-" }} ({{ posts | size }})</a>
 						{% endfor %}
+						</h4>
 					</div>
 
     </div>
