@@ -28,7 +28,11 @@ layout: default
                 {% endif %}
              </div>
 
-              <div class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span> By <a target="_blank" href="{{site.url}}">{{ site.author }}</a></div>
+              <div class="meta">
+                <span class="postdate" style="margin-right: 60px">date:  {{ page.date | date: "%b %d, %Y" }}</span>
+                <span style="margin-right: 60px">author:  {{ site.author }} </span> 
+                <span> words:  {{ content | strip_html | strip_newlines | split: "" | size }}</span>
+              </div>
               <br />
             </header>
             <article class="post-content">
