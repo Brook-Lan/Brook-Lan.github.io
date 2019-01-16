@@ -22,22 +22,26 @@ layout: default
 
 
               <h1 class="post-title">{{ page.title }}</h1>
-              <div>
-                {% if page.tags != empty %}
-                  <span>标签：</span>
-                  {% for tag in page.tags %}
-                    <a>{{ tag }}</a>
-                    {% if forloop.last == false %}, {%endif %}
-                  {% endfor %}
-                {% endif %}
-             </div>
 
               <div class="row meta">
-                <span class="col-md-3">date:  {{ page.date | date: "%b %d, %Y" }}</span>
-                <span class="col-md-3 col-md-offset-1">author:  {{ site.author }} </span> 
-                <span  class="col-md-3 col-md-offset-1"> words:  {{ content | strip_html | strip_newlines | split: "" | size }}</span>
+                <span class="glyphicon glyphicon-time col-md-3"> {{ page.date | date: "%Y-%m-%d" }}</span>
+                <span class="glyphicon glyphicon-pencil col-md-3 col-md-offset-1"> {{ site.author }} </span> 
+                <span  class="glyphicon glyphicon-signal col-md-3 col-md-offset-1"> {{ content | strip_html | strip_newlines | split: "" | size }}</span>
               </div>
               <br />
+              <div class="tag" style="margin-top:20px;margin-bottom: 50px;">
+                  {% if page.tags != empty %}
+                    <span class="glyphicon glyphicon-tag"></span>
+                    {% for tag in page.tags %}
+                      <a class="label label-default">{{ tag }}</a>
+                      {% if forloop.last == false %}, {%endif %}
+                    {% endfor %}
+                    <a class="label label-default">测试</a>
+                    <a class="label label-default">测试2</a>
+                    
+                  {% endif %}
+               </div>
+               <br/>
             </header>
             <article class="post-content">
               {{ content }}
