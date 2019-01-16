@@ -7,22 +7,15 @@ header: Posts By Tag
 <div class="container docs-container">
   <div class="row">
     <div class="col-md-3">
-      <div class="sidebar hidden-print" role="complementary">
-        <div id="navigation">
-        	<h1>目录</h1>
-      		<ul class="nav sidenav">
-			  	{% if site.tags.first[0] == null %}
-				  	{% for tag in site.tags %} 
-				  	<li><a href="{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }} <span >({{ site.tags[tag].size }})</span></a></li>
-				  	{% endfor %}
-				{% else %}
-				  	{% for tag in site.tags %} 
-				  	<li><a href="{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }} <span style="color: #999999;" >({{ tag[1].size }})</span></a></li>
-				  	{% endfor %}
-				{% endif %}
-          	</ul>
-        </div>
-      </div>
+				<h1>&nbsp;&nbsp; 标签云</h1>
+				<div class="post-contents" style="margin-top: 70px;">
+						{% for tag in site.tags %}
+						{% assign t = tag | first %}
+						{% assign posts = tag | last %}
+						<a class="btn btn-default btn-sm" style="margin-top: 5px;" href="{{ site.JB.tags_path }}#{{ t }}-ref">{{t | downcase | replace:" ","-" }} ( {{ posts | size }} )</a>
+						{% endfor %}
+					</div>
+
     </div>
     <div class="col-md-9" role="main">
       <div class="panel docs-content">

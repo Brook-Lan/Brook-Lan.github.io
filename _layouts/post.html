@@ -9,13 +9,17 @@ layout: default
       </div>
     </div>
     <div class="col-md-9" role="main">
+
+
       <div class="panel docs-content">
-        <div class="wrapper">
+          <!-- <div class=row style="margin-bottom: 30px;height: 20px;">
+              <span>positon: /home/</span>
+              <span><a href="{{ '/categories/' | prepend: site.baseurl }}#{{page.categories}}-ref">{{page.categories}}</a>/</span>
+              <span><a href="{{ '/tag/' | prepend: site.baseurl }}#{{page.tag}}-ref">{{page.tag}}</a></span>
+          </div> -->
+        <div class="wrapper row">
             <header class="post-header">
-              <!-- <div>
-                <span>位置：</span><a href="{{ '/categories/' | prepend: site.baseurl }}#{{page.categories}}-ref">{{page.categories}}</a>	>
-                <a href="{{ '/tag/' | prepend: site.baseurl }}#{{page.tag}}-ref">{{page.tag}}</a>
-              </div> -->
+
 
               <h1 class="post-title">{{ page.title }}</h1>
               <div>
@@ -28,10 +32,10 @@ layout: default
                 {% endif %}
              </div>
 
-              <div class="meta">
-                <span class="postdate" style="margin-right: 60px">date:  {{ page.date | date: "%b %d, %Y" }}</span>
-                <span style="margin-right: 60px">author:  {{ site.author }} </span> 
-                <span> words:  {{ content | strip_html | strip_newlines | split: "" | size }}</span>
+              <div class="row meta">
+                <span class="col-md-3">date:  {{ page.date | date: "%b %d, %Y" }}</span>
+                <span class="col-md-3 col-md-offset-1">author:  {{ site.author }} </span> 
+                <span  class="col-md-3 col-md-offset-1"> words:  {{ content | strip_html | strip_newlines | split: "" | size }}</span>
               </div>
               <br />
             </header>
