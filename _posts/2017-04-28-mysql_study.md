@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mysql课程笔记"
-categories: Tech笔记
+categories: Tech
 tags: mysql
 ---
 

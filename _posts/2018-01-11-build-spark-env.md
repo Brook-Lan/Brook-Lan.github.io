@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spark环境搭建
-categories: Tech笔记
+categories: Tech
 tags: [spark, 环境搭建]
 ---
 
