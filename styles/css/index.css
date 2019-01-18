@@ -7124,3 +7124,9 @@ td.visible-print {
     margin-top: -70px;
 }
 */
+
+.post-content img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
