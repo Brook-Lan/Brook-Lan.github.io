@@ -25,3 +25,5 @@ tags: 阅读
 [我爱自然语言处理](http://www.52nlp.cn/)
 
 [码农场](http://www.hankcs.com/)
+
+[【天池大赛】历届比赛资料](https://tianchi.aliyun.com/forum/postDetail?postId=3192)
