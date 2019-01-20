@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 架构师角色的养成
+title: "架构师角色的养成"
 categories: 读书笔记
 tags: 架构
 ---
