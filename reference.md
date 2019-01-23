@@ -20,6 +20,7 @@ tags: 阅读
 [如何轻松愉快地理解条件随机场（CRF）?](https://www.jianshu.com/p/55755fc649b1)
 
 
+
 博客站点
 ====================
 [我爱自然语言处理](http://www.52nlp.cn/)
@@ -27,3 +28,11 @@ tags: 阅读
 [码农场](http://www.hankcs.com/)
 
 [【天池大赛】历届比赛资料](https://tianchi.aliyun.com/forum/postDetail?postId=3192)
+
+
+
+资源
+====================
+[sobooks](https://sobooks.cc/)
+
+[我的小屋](http://mebook.cc/)
