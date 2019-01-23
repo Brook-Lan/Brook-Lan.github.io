@@ -13,26 +13,27 @@ tags: 阅读
 
 文章
 =====================
-[NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493520&idx=1&sn=2b04c009ef75291ef3d19e8fe673aa36&pass_ticket=o4r0a01MZLlOnoNUvR3R0S9SaMFglVqjhuU2W1nOylUkoNKnweXuLr1Gn2gmA2AP)
+<a href="https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493520&idx=1&sn=2b04c009ef75291ef3d19e8fe673aa36&pass_ticket=o4r0a01MZLlOnoNUvR3R0S9SaMFglVqjhuU2W1nOylUkoNKnweXuLr1Gn2gmA2AP" target="_blank">NLP的巨人肩膀（上）</a>
 
-[NLP 的巨人肩膀（下）：从 CoVe 到 BERT](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493731&idx=1&sn=51206e4ca3983548436d889590ab5347&pass_ticket=o4r0a01MZLlOnoNUvR3R0S9SaMFglVqjhuU2W1nOylUkoNKnweXuLr1Gn2gmA2AP)
+<a href="https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493731&idx=1&sn=51206e4ca3983548436d889590ab5347&pass_ticket=o4r0a01MZLlOnoNUvR3R0S9SaMFglVqjhuU2W1nOylUkoNKnweXuLr1Gn2gmA2AP" target="_blank">NLP 的巨人肩膀（下）：从 CoVe 到 BERT</a>
 
-[如何轻松愉快地理解条件随机场（CRF）?](https://www.jianshu.com/p/55755fc649b1)
+<a href="https://www.jianshu.com/p/55755fc649b1" target="_blank">如何轻松愉快地理解条件随机场（CRF）?</a>
 
 
 
 博客站点
 ====================
-[我爱自然语言处理](http://www.52nlp.cn/)
+<a href="http://www.52nlp.cn/" target="_blank">我爱自然语言处理</a>
 
-[码农场](http://www.hankcs.com/)
+<a href="http://www.hankcs.com/" target="_blank">码农场]</a>
 
-[【天池大赛】历届比赛资料](https://tianchi.aliyun.com/forum/postDetail?postId=3192)
+<a href="https://tianchi.aliyun.com/forum/postDetail?postId=3192" target="_blank">【天池大赛】历届比赛资料</a>
 
 
 
 资源
 ====================
-[sobooks](https://sobooks.cc/)
+<a href="https://sobooks.cc/" target="_blank">sobooks</a>
 
-[我的小屋](http://mebook.cc/)
+<a href="http://mebook.cc/" target="_blank">我的小屋</a>
+
