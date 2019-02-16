@@ -47,12 +47,12 @@ tags: 爬虫
 
 这个思路是正确的，但在实施的时候我们还需要解决一些障碍，下面我来说说最终方案：
 
-![流程图](/posts_pic/2018-06/2018-06-16-a-method-of-crawling-wechat-article/liucheng.png)
+![流程图](/posts_img/2018/2018-06-16-a-method-of-crawling-wechat-article/liucheng.png)
 
 
 
 - pc1需为ｗindows(因为微信pc端目前只支持ｗindows)。将url自动输入微信聊天界面并点击浏览，我这边采用python的pywinauto包。这个包的功能类似按键精灵，可以模拟鼠标键盘事件，使用过程中注意版本，如果出现pywinauto无法控制鼠标和键盘，可以试着降低pywinauto的版本。pywinauto的鼠标和键盘输入位置是通过像素点位置定位的（通过打开qq截图，移动鼠标时鼠标箭头旁边变化的那两个值），所以在程序中设置好了像素点位置后就不要再移动微信聊天窗口的位置了。
-- pc2为linux，我们会在这台机器安装**[ｍitmproxy](https://mitmproxy.org)**。mitmproxy是一个支持HTTP和HTTPS的抓包程序，有类似Fiddler、Charles的功能。我们要用到它的一个功能是带python脚本启动，该脚本处理ｍitmproxy拦截到的response，我们要解析得到微信文章相关数据的代码就写在这里。在pc2上启动ｍitmproxy后，需要在pc1上设置代理为pc2的ip和端口，设置好代理后浏览器打开mitm.it这个网页下载安装证书。([mitmproxy文档](http://docs.mitmproxy.org/en/v0.18.2/introduction.html))
+- pc2为linux，我们会在这台机器安装[ｍitmproxy](https://mitmproxy.org)。mitmproxy是一个支持HTTP和HTTPS的抓包程序，有类似Fiddler、Charles的功能。我们要用到它的一个功能是带python脚本启动，该脚本处理ｍitmproxy拦截到的response，我们要解析得到微信文章相关数据的代码就写在这里。在pc2上启动ｍitmproxy后，需要在pc1上设置代理为pc2的ip和端口，设置好代理后浏览器打开mitm.it这个网页下载安装证书。([mitmproxy文档](http://docs.mitmproxy.org/en/v0.18.2/introduction.html))
 
 整个运行流程是：
 1. pc2上带脚本参数启动ｍitmproxy(脚本事先写好)

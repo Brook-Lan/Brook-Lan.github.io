@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "主题模型"
+title: 主题模型
 categories: Tech
-tags: 机器学习
+tags: 自然语言处理
 ---
 
 * content

@@ -2,7 +2,7 @@
 layout: post
 title: Spark环境搭建
 categories: Tech
-tags: [spark, 环境搭建]
+tags: spark
 ---
 
 * content
