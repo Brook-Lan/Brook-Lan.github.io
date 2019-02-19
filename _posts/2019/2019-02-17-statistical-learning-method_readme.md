@@ -2,7 +2,7 @@
 layout: post
 title: 李航《统计学习方法》学习笔记--README
 categories: 读书笔记
-tags: 机器学习
+tags: [机器学习,《统计学习方法》]
 ---
 
 
