@@ -21,14 +21,16 @@ tags: 阅读
 
 
 
+
 博客站点
 ====================
 <a href="http://www.52nlp.cn/" target="_blank">我爱自然语言处理</a>
 
-<a href="http://www.hankcs.com/" target="_blank">码农场]</a>
+<a href="http://www.hankcs.com/" target="_blank">码农场</a>
 
 <a href="https://tianchi.aliyun.com/forum/postDetail?postId=3192" target="_blank">【天池大赛】历届比赛资料</a>
 
+<a href="https://tech.meituan.com" target="_blank">美团技术团队</a>
 
 
 资源
