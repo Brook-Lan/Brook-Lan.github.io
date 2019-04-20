@@ -19,7 +19,13 @@ tags: 阅读
 
 <a href="https://www.jianshu.com/p/55755fc649b1" target="_blank">如何轻松愉快地理解条件随机场（CRF）?</a>
 
+[pytorch实现transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
+[推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982)
+
+[推荐系统召回四模型之二：沉重的FFM模型](https://zhuanlan.zhihu.com/p/59528983)
+
+[专业领域词汇无监督挖掘](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/89348286)
 
 
 博客站点
