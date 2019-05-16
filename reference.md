@@ -38,6 +38,8 @@ tags: 阅读
 
 <a href="https://tech.meituan.com" target="_blank">美团技术团队</a>
 
+<a href="http://www.huaxiaozhuan.com/">AI算法工程师手册</a>
+
 
 资源
 ====================
