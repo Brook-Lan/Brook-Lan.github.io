@@ -8,11 +8,36 @@ tags: 阅读
 
 * content
 {:toc}
+## 在读
 
 
 
-2018书单
------------------------------------------------------------------
+<hr>
+<ul class="task-list list-unstyled">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/><a href="https://book.douban.com/subject/3910883/">《观呼吸 -- 平静的第一堂课》 德宝法师 </a>   (2019.05.05 ~ ??)</li>
+</ul>
+
+
+
+
+## 已读
+
+<hr>
+
+### 2019
+
+
+<ul class="task-list list-unstyled">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/subject/26931280/">《Python机器学习 – 预测分析核心算法》  Michael Bowles </a>   (2018.07.20 ~ 2019.06.01)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/series/3930">《明朝那些事儿》 当年明月</a>  (2019.04.09 ~ 2019.05.13)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/subject/24748615/">《天幕红尘》 豆豆 </a>  (2019.04.21 ~ 2019.05.04)</li>
+</ul>
+
+
+
+
+
+### 2018
 
 + 《Python深度学习》2018中文版    Francois Chollet
 + 《机器学习》  周志华
@@ -23,8 +48,7 @@ tags: 阅读
 
 
 
-2017书单
------------------------------------------------------------------
+### 2017
 
 + 《统计学习方法》 李航
 + 《统计自然语言处理》宗成庆
@@ -36,8 +60,7 @@ tags: 阅读
 
 
 
-2016书单
------------------------------------------------------------------
+### 2016
 + 《利用python进行数据分析》  Wes McKinney
 + 《Java 编程思想》
 + 《鸟哥的linux私房菜》
