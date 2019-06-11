@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-01-16
+date: 2019-06-11
 title: 我的书单
 permalink: /books/
 tags: 阅读
@@ -14,24 +14,25 @@ tags: 阅读
 
 <hr>
 <ul class="task-list list-unstyled">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/><a href="https://book.douban.com/subject/3910883/">《观呼吸 -- 平静的第一堂课》 德宝法师 </a>   (2019.05.05 ~ ??)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/><a href="https://book.douban.com/subject/3910883/" target="_blank">《观呼吸 -- 平静的第一堂课》 德宝法师 </a>   (2019.05.05 ~ ??)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/><a href="https://book.douban.com/subject/2282706/" target="_blank">《智囊全集》 冯梦龙 </a>   (2017 ~ ??)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/><a href="https://book.douban.com/subject/27087503/" target="_blank">《深度学习》  [美] 伊恩·古德费洛 / [加] 约书亚·本吉奥 / [加] 亚伦·库维尔 </a>   (2019.03.30 ~ ??)</li>
 </ul>
 
 
 
+<br><br>
 
 ## 已读
 
 <hr>
-
 ### 2019
-
-
 <ul class="task-list list-unstyled">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/subject/26931280/">《Python机器学习 – 预测分析核心算法》  Michael Bowles </a>   (2018.07.20 ~ 2019.06.01)</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/series/3930">《明朝那些事儿》 当年明月</a>  (2019.04.09 ~ 2019.05.13)</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/subject/24748615/">《天幕红尘》 豆豆 </a>  (2019.04.21 ~ 2019.05.04)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/subject/26931280/" target="_blank">《Python机器学习 – 预测分析核心算法》  Michael Bowles </a>   (2018.07.20 ~ 2019.06.01)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/series/3930" target="_blank">《明朝那些事儿》 当年明月</a>  (2019.04.09 ~ 2019.05.13)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><a href="https://book.douban.com/subject/24748615/" target="_blank">《天幕红尘》 豆豆 </a>  (2019.04.21 ~ 2019.05.04)</li>
 </ul>
+
 
 
 
