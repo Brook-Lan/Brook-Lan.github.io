@@ -27,6 +27,8 @@ tags: 阅读
 
 [专业领域词汇无监督挖掘](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/89348286)
 
+[FRAUDAR: Bounding Graph Fraud in the Face of Camouflage](http://nshah.net/research/papers/FRAUDAR.KDD.16.pdf)
+
 
 博客站点
 ====================
@@ -39,6 +41,10 @@ tags: 阅读
 <a href="https://tech.meituan.com" target="_blank">美团技术团队</a>
 
 <a href="http://www.huaxiaozhuan.com/">AI算法工程师手册</a>
+
+<a href="http://myslide.cn/">MySlide</a>
+
+<a href="https://freebuf.com">FREEBUF</a>
 
 
 资源
