@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《漫步华尔街》
-categories: 读书笔记
+categories: 阅读笔记
 tags: 投资
 ---
 * content

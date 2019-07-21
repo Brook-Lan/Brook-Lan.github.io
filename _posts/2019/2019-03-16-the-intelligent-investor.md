@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《聪明的投资者》
-categories: 读书笔记
+categories: 阅读笔记
 tags: 投资
 ---
 

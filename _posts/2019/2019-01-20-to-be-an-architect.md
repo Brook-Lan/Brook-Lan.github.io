@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "架构师角色的养成"
-categories: 读书笔记
+categories: 阅读笔记
 tags: 程序员
 ---
 
