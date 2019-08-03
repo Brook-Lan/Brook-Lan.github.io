@@ -29,6 +29,8 @@ tags: 阅读
 
 [FRAUDAR: Bounding Graph Fraud in the Face of Camouflage](http://nshah.net/research/papers/FRAUDAR.KDD.16.pdf)
 
+[因子机深入解析](https://tracholar.github.io/machine-learning/2017/03/10/factorization-machine.html#%E7%BB%BC%E8%BF%B0)
+
 
 博客站点
 ====================
