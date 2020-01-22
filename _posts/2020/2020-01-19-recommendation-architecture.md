@@ -2,7 +2,7 @@
 layout: post
 title: 推荐系统架构
 categories: Tech
-tags: 架构
+tags: [架构, 推荐系统]
 ---
 * content
 {:toc}
