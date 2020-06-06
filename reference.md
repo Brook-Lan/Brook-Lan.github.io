@@ -42,14 +42,15 @@ tags: 阅读
 
 <a href="https://tech.meituan.com" target="_blank">美团技术团队</a>
 
-<a href="http://www.huaxiaozhuan.com/">AI算法工程师手册</a>
+<a href="http://www.huaxiaozhuan.com/" target="_blank">AI算法工程师手册</a>
 
-<a href="http://myslide.cn/">MySlide</a>
+<a href="http://myslide.cn/" target="_blank">MySlide</a>
 
-<a href="https://freebuf.com">FREEBUF</a>
+<a href="https://freebuf.com" target="_blank">FREEBUF</a>
 
-<a href="https://www.biaodianfu.com/"> 标点符</a>
+<a href="https://www.biaodianfu.com/" target="_blank"> 标点符</a>
 
+<a href="http://hongyitong.github.io/" target="_blank"> 忆桐之家的博客</a>
 
 资源
 ====================
