@@ -2,11 +2,11 @@
 name: ThinkBlog
 description:  "Just Thinking ..."
 
-author: Humch
+author: lanhq
 baseurl: ""
 
-meta_description: Humch;个人博客;IT技术;读书
-motto: I think, therefore I am
+meta_description: lanhq;个人博客;IT技术;读书
+motto: ego cogito, ergo sum
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
